@@ -3,6 +3,9 @@ Last update: 19 March 2015
 
 changes
 
+more changes 
+
+
 Introduction
 
 These release notes describe issues specific to the Git for Windows release.
